@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Srishti0310
-- 👀 I’m interested in Coding and Dancing
+- 👀 I’m interested in Coding and Design 
 - 🌱 I’m currently learning DSA and Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me from linkedin acc- Srishti Mahapatra
